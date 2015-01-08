@@ -1,3 +1,4 @@
+//AtCoder Regular 29 A
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>

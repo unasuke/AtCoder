@@ -1,3 +1,4 @@
+#AtCoder Regular 28 A
 input = STDIN.gets.chomp.split
 stone = input[0].to_i
 ant = input[1].to_i
